@@ -1,0 +1,464 @@
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\ApplicationInsights.config
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebApplicationRestApiPizza_1.dll.config
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebApplicationRestApiPizza_1.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebApplicationRestApiPizza_1.pdb
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csc.exe
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csc.exe.config
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csc.rsp
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csi.exe
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csi.exe.config
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csi.rsp
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.AppContext.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Console.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.Compression.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Claims.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.ValueTuple.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\vbc.exe
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\vbc.exe.config
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\vbc.rsp
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\VBCSCompiler.exe
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Antlr3.Runtime.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.Web.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Newtonsoft.Json.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Net.Http.Formatting.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Helpers.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.WebHost.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Mvc.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Optimization.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Razor.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Razor.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebGrease.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Helpers.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Mvc.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Optimization.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Razor.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Razor.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Newtonsoft.Json.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Antlr3.Runtime.pdb
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Net.Http.Formatting.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.WebHost.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.Web.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Razor.resources.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Http.resources.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.csprojAssemblyReference.cache
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.csproj.CoreCompileInputs.cache
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.csproj.CopyComplete
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.dll
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.pdb
+C:\Users\wilfrid\source\repos\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\MySql.Data.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\ApplicationInsights.config
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebApplicationRestApiPizza_1.dll.config
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebApplicationRestApiPizza_1.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebApplicationRestApiPizza_1.pdb
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csc.exe
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csc.exe.config
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csc.rsp
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csi.exe
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csi.exe.config
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csi.rsp
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.AppContext.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Collections.Immutable.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Console.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.Compression.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.FileSystem.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.Pipes.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.AccessControl.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Claims.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.ValueTuple.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.XPath.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\vbc.exe
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\vbc.exe.config
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\vbc.rsp
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\VBCSCompiler.exe
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\VBCSCompiler.exe.config
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Antlr3.Runtime.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.Web.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.WindowsServer.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.ApplicationInsights.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.Web.Infrastructure.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\MySql.Data.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Newtonsoft.Json.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Net.Http.Formatting.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Helpers.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.WebHost.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Mvc.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Optimization.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Razor.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Deployment.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Razor.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebGrease.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Helpers.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Mvc.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Optimization.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Razor.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Deployment.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Razor.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Newtonsoft.Json.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Antlr3.Runtime.pdb
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Net.Http.Formatting.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.WebHost.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.WindowsServer.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.Web.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Helpers.resources.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Mvc.resources.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Optimization.resources.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Razor.resources.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.WebPages.resources.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Net.Http.Formatting.resources.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Http.resources.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Http.WebHost.resources.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.csprojAssemblyReference.cache
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.csproj.CoreCompileInputs.cache
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.csproj.CopyComplete
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.dll
+D:\Cours\dot net\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.pdb
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\ApplicationInsights.config
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebApplicationRestApiPizza_1.dll.config
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebApplicationRestApiPizza_1.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebApplicationRestApiPizza_1.pdb
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csc.exe
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csc.exe.config
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csc.rsp
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csi.exe
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csi.exe.config
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csi.rsp
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.AppContext.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Collections.Immutable.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Console.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.Compression.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.FileSystem.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.Pipes.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.AccessControl.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Claims.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.ValueTuple.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.XPath.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\vbc.exe
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\vbc.exe.config
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\vbc.rsp
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\VBCSCompiler.exe
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\VBCSCompiler.exe.config
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Antlr3.Runtime.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.Web.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.WindowsServer.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.ApplicationInsights.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.Web.Infrastructure.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Newtonsoft.Json.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Net.Http.Formatting.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Helpers.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.WebHost.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Mvc.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Optimization.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Razor.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Deployment.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Razor.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebGrease.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Helpers.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Mvc.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Optimization.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Razor.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Deployment.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Razor.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Newtonsoft.Json.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Antlr3.Runtime.pdb
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Net.Http.Formatting.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.WebHost.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.WindowsServer.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.Web.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Helpers.resources.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Mvc.resources.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Optimization.resources.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Razor.resources.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.WebPages.resources.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.WebPages.Deployment.resources.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.WebPages.Razor.resources.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Net.Http.Formatting.resources.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Http.resources.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Http.WebHost.resources.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.csproj.AssemblyReference.cache
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.csproj.CoreCompileInputs.cache
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.csproj.CopyComplete
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.dll
+D:\Projectsdotnet\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.pdb
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\ApplicationInsights.config
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebApplicationRestApiPizza_1.dll.config
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebApplicationRestApiPizza_1.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebApplicationRestApiPizza_1.pdb
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csc.exe
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csc.exe.config
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csc.rsp
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csi.exe
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csi.exe.config
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\csi.rsp
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.AppContext.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Console.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.Compression.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Claims.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.ValueTuple.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\vbc.exe
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\vbc.exe.config
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\vbc.rsp
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Antlr3.Runtime.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.Web.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Newtonsoft.Json.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Net.Http.Formatting.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Helpers.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.WebHost.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Mvc.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Optimization.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Razor.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\WebGrease.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Helpers.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Mvc.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Optimization.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Razor.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Newtonsoft.Json.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Antlr3.Runtime.pdb
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Net.Http.Formatting.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Web.Http.WebHost.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.AI.Web.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Razor.resources.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Http.resources.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.csproj.AssemblyReference.cache
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.csproj.CoreCompileInputs.cache
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.csproj.CopyComplete
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\obj\Debug\WebApplicationRestApiPizza_1.pdb
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\libzstd.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\snappy32.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\snappy64.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\libsnappy64.so
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\libzstd.so
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\libsnappy64.dylib
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\libzstd.dylib
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\mongocrypt.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\DnsClient.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.Win32.Registry.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\MongoDB.Bson.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\MongoDB.Driver.Core.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\MongoDB.Driver.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\MongoDB.Libmongocrypt.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\SharpCompress.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Buffers.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Memory.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Numerics.Vectors.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Security.AccessControl.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Security.Principal.Windows.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Text.Encoding.CodePages.dll
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\DnsClient.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\Microsoft.Win32.Registry.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\MongoDB.Bson.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\MongoDB.Driver.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\MongoDB.Driver.Core.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Buffers.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Memory.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Numerics.Vectors.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Security.AccessControl.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Security.Principal.Windows.xml
+C:\Users\Farsi\Downloads\WebApplicationRestApiPizza_1\WebApplicationRestApiPizza_1\bin\System.Text.Encoding.CodePages.xml
